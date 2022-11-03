@@ -1,4 +1,8 @@
-### Hi there 👋
+[![@miablo's Holopin board](https://holopin.me/miablo)](https://holopin.io/@miablo)
+
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on Peloton schedule add to google cal project
 
 <!--
 **Miablo/Miablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ç
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
